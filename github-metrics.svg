@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1187" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1158" class="">
     <defs>
         <style/>
     </defs>
@@ -30,11 +30,11 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -2474,18 +2474,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIEBQP/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMEBREGByEAEhMiMUEUUWGB0QgVI1Jxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/EABkRAQEBAQEBAAAAAAAAAAAAAAECACISIf/aAAwDAQACEQMRAD8ADbT6A01rLQjTV1NURXCKpaGSqilIY4wwwDlcYYD06W0WxulaepSWWW5VMa8mKWZQrf6VUH/h609h4IYdsbXJFGqPM80kjAY7mEjLk/ZQPt1RuFZVa6qqoRfHR6YpXliVaOVUa4umA3c+R/E2SqhTg8kkYHWU93aS7RzMi6d02Z0pVtRmhpWpEjmDz9kzuZUwfJyTjnHPyz0a3f0HpHTeh6qut9B8NXmSOOB/HdssW5GGYg+UN13mpKzQMUN8tMdRR27xwKu1iVp0WA4DOQSR43ocggADHIBJ3t+aanuu18tdHN3x08sNVC0ZBWTuPYOfcYcnjqpcUC/NBmpUND9PsNyXQkMlbPG1vdnFJCo8yjvbvLH6tnA/PVS6UtVtt4ngGaTSUzFlZR3vQuxz2t7lCTw3qDwfYkZtHubQaX05+13UyMBNJJGQDhFIXA4Hue89OjvZpo8HxCPqjfjp3FqGc1ILjdnqa/V8NdZbXDKk1wmaevqaiMiOnhZQqMMgElowpUe5JPp6MN3KCK1bL1tvp2doaSGmgRnPmKrIgBP146z5N7tOq8QjWQqzYc9jcDB59PngdGN0N07PqHRlZarcsjT1LRjJUgKFYNnkD+vVpu6FMCZlB3//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>A Small Rock</div>
-                                                <div class="unlocked">8 Feb 2025</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+639 others...</div>
+                                            <div class="description ellipsis">+640 others...</div>
                                         </div>
                                     </div>
                                 </div>
