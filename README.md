@@ -2,10 +2,13 @@
 
 ![Metrics](/github-metrics.svg)
 
-![LeetCode](https://stats.justsong.cn/api/leetcode?username=StarlingLin&cn=true)
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=StarlingLin&cn=true&theme=dark)
 
 [![trophy](https://github-trophies.vercel.app/?username=StarlingLin&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![blog](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwebsitedownornot.com%2Fcheck.php%3Fhost%3Dwww.starlinglin.top&query=%24.ms&suffix=ms&label=www.starlinglin.top&color=brightgreen)](https://www.starlinglin.top/)
+[![chat](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwebsitedownornot.com%2Fcheck.php%3Fhost%3Dchat.starlinglin.top&query=%24.ms&suffix=ms&label=chat.starlinglin.top&color=brightgreen)](https://chat.starlinglin.top/)
+[![game](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwebsitedownornot.com%2Fcheck.php%3Fhost%3Dwww.ciallo.org.cn&query=%24.ms&suffix=ms&label=www.ciallo.org.cn&color=brightgreen)](https://www.ciallo.org.cn/)
 <!--
 **StarlingLin/StarlingLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
