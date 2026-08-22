@@ -1,4 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code+Semibold&weight=800&size=25&duration=3000&color=39C5BB&multiline=true&width=435&height=80&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%86;I'm+Starling.+Welcome!)](https://git.io/typing-svg)
+
 ![Metrics](/github-metrics.svg)
+
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=StarlingLin&cn=true)
+
+[![trophy](https://github-trophies.vercel.app/?username=StarlingLin&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **StarlingLin/StarlingLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
